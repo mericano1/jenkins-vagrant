@@ -3,4 +3,3 @@
 .vagrant
 Puppetfile.lock
 .DS_Store
-puppet/modules
