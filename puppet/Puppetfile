@@ -1,0 +1,7 @@
+forge "http://forge.puppetlabs.com"
+
+mod "puppetlabs/java"
+mod 'rtyler/jenkins', '1.1.0'
+mod "maestrodev/wget"
+mod 'puppetlabs/git'
+mod 'puppetlabs/stdlib'
